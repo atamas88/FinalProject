@@ -22,7 +22,7 @@ namespace LifeInEsbjergDAL
             }
             return companyRepo;
         }
-        public IRepository<Category> GetCategorysRepository()
+        public IRepository<Category> GetCategoryRepository()
         {
             if (categoryRepo == null)
             {
