@@ -1,0 +1,10 @@
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.csprojResolveAssemblyReference.cache
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\LifeInEsbjergDAL.dll.config
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\LifeInEsbjergDAL.dll
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\LifeInEsbjergDAL.pdb
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.dll
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.xml
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.dll
+C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.pdb
