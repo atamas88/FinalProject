@@ -18,7 +18,16 @@ namespace LifeInEsbjergDAL.Context
             Configuration.ProxyCreationEnabled = false;
         }
 
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //modelBuilder.Entity<Category>().HasMany(c => c.Companies);
+            //modelBuilder.Entity<Company>().HasMany(c => c.Ratings);
+            //modelBuilder.Entity<Company>().HasMany(c => c.Reviews);
+        }
+
         public DbSet<Company> Companies { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Rating> Ratings { get; set; }
+        public DbSet<Review> Reviews { get; set; }
     }
 }

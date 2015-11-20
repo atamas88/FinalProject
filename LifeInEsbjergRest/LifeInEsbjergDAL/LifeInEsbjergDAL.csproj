@@ -52,8 +52,12 @@
   <ItemGroup>
     <Compile Include="Context\LifeInContext.cs" />
     <Compile Include="Context\LifeInContextInitializer.cs" />
+    <Compile Include="DomainModel\Badge.cs" />
     <Compile Include="DomainModel\Category.cs" />
     <Compile Include="DomainModel\Company.cs" />
+    <Compile Include="DomainModel\Rating.cs" />
+    <Compile Include="DomainModel\Review.cs" />
+    <Compile Include="DomainModel\Tag.cs" />
     <Compile Include="Facade.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\CategoryRepository.cs" />

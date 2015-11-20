@@ -8,3 +8,12 @@ C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\En
 C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.dll
 C:\Info\3.Semester\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.pdb
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\LifeInEsbjergDAL.dll.config
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\LifeInEsbjergDAL.dll
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\LifeInEsbjergDAL.pdb
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.dll
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.xml
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.dll
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.pdb
