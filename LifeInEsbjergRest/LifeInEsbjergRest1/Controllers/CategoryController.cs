@@ -39,6 +39,6 @@ namespace LifeInEsbjergRest1.Controllers
             category.Id = id;
             facade.GetCategoryRepository().Edit(category);
         }
-
+        
     }
 }
