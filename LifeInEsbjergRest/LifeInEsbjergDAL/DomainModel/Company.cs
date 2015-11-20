@@ -11,7 +11,7 @@ namespace LifeInEsbjergDAL.DomainModel
 {
 
     [DataContract(IsReference = true)]
-    [Table("Movie")]
+    [Table("Company")]
     public class Company
     {
         [Key]
