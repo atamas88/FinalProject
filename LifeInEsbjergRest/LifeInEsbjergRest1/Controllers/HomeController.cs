@@ -8,6 +8,7 @@ namespace LifeInEsbjergRest1.Controllers
 {
     public class HomeController : Controller
     {
+        //HomeController
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
