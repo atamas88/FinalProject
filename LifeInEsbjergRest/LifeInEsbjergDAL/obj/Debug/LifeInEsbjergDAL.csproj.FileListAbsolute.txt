@@ -18,3 +18,6 @@ C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\D
 C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.dll
 C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.pdb
 C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.csprojResolveAssemblyReference.cache
+C:\School\Repository Github\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.csprojResolveAssemblyReference.cache
+C:\School\Repository Github\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.pdb
