@@ -1,0 +1,9 @@
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\DtoModel.dll
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\DtoModel.pdb
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\Antlr3.Runtime.dll
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.csprojResolveAssemblyReference.cache
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.dll
+C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.pdb
