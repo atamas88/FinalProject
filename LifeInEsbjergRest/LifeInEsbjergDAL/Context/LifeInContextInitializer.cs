@@ -20,6 +20,12 @@ namespace LifeInEsbjergDAL.Context
             Category category2 = context.Categories.Add(new Category() { Id = 2, Name = "Plumber" });
             Category category3 = context.Categories.Add(new Category() { Id = 3, Name = "Electrician" });
 
+            Rating rating1 = context.Ratings.Add(new Rating() { Id = 1, CustomerService = 1, Quality = 2, Price = 3, OverAll = 2 });
+            Rating rating2 = context.Ratings.Add(new Rating() { Id = 2, CustomerService = 2, Quality = 4, Price = 3, OverAll = 3 });
+
+            Review rev1 = context.Reviews.Add(new Review() { Id = 1, Title = "Great Stuff", Text = "I like the overall experience", Date = DateTime.Now });
+            Review rev2 = context.Reviews.Add(new Review() { Id = 2, Title = "Awfull", Text = "Very very bad experience", Date = DateTime.Now });
+
             //Customer customer1 = context.Customers.Add(new Customer() { Id = 1, Name = "Kim Cormen", Email = "Google@google.tinfoil", Password = "1234abcd" });
 
             companies.Add(new Company()
@@ -33,7 +39,9 @@ namespace LifeInEsbjergDAL.Context
                 MinPrice = 500,
                 MaxPrice = 1000,
                 Description = "Small local bank",
-                CategoryId = 1
+                Category = category1,
+                Ratings = new List<Rating>() { rating1, rating2 },
+                Reviews = new List<Review>() { rev1, rev2 }
 
             });
 

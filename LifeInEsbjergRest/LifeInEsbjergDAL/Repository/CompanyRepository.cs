@@ -17,7 +17,7 @@ namespace LifeInEsbjergDAL.Repository
         {
             using (var ctx = new LifeInContext())
             {
-                return ctx.Companies.ToList();
+                return ctx.Companies.Include("Category").Include("Ratings").Include("Reviews").ToList();
             }
         }
         public void Add(Company company)
@@ -71,7 +71,8 @@ namespace LifeInEsbjergDAL.Repository
                 companyDB.Description = company.Description;
                 companyDB.NrRate = company.NrRate;
                 companyDB.AvgOvr = company.AvgOvr;
-                companyDB.CategoryId = company.CategoryId;
+                companyDB.Category = company.Category;
+
 
                 ctx.SaveChanges();
 

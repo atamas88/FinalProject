@@ -57,7 +57,19 @@ namespace LifeInEsbjergDAL.DomainModel
         public double AvgOvr { get; set; }
 
         [DataMember]
-        public int CategoryId { get; set; }
+        //[ForeignKey("Category_Id")]
+        public virtual Category Category { get; set; }
+        //public int Category_Id { get; set; }
+        [DataMember]
+        public virtual ICollection<Tag> Tags { get; set; }
+        [DataMember]
+        public virtual ICollection<Rating> Ratings { get; set; }
+        [DataMember]
+        public virtual ICollection<Review> Reviews { get; set; }
+        [DataMember]
+        public virtual ICollection<Badge> Badges { get; set; }
+
+
 
 
     }
