@@ -63,6 +63,7 @@
     <Compile Include="Repository\CategoryRepository.cs" />
     <Compile Include="Repository\CompanyRepository.cs" />
     <Compile Include="Repository\Interface\IRepository.cs" />
+    <Compile Include="Repository\RatingRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

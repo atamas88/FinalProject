@@ -41,6 +41,7 @@ namespace LifeInEsbjergDAL.Repository
                 var categoryDB = ctx.Companies.FirstOrDefault(x => x.Id == category.Id);
 
                 categoryDB.Name = category.Name;
+                ctx.SaveChanges();
             }
         }
 

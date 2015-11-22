@@ -13,6 +13,7 @@ namespace LifeInEsbjergDAL
     {
         private IRepository<Company> companyRepo;
         private IRepository<Category> categoryRepo;
+        private IRepository<Rating> ratingRepo;
 
         public IRepository<Company> GetCompanyRepository()
         {
@@ -30,5 +31,14 @@ namespace LifeInEsbjergDAL
             }
             return categoryRepo;
         }
+        public IRepository<Rating> GetRatingRepository()
+        {
+            if (ratingRepo == null)
+            {
+                ratingRepo = new RatingRepository();
+            }
+            return ratingRepo;
+        }
+
     }
 }

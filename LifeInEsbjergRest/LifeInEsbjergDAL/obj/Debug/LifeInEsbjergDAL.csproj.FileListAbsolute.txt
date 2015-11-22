@@ -17,3 +17,4 @@ C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\D
 C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.dll
 C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.pdb
+C:\Users\notandi\Documents\FinalProject\LifeInEsbjergRest\LifeInEsbjergDAL\obj\Debug\LifeInEsbjergDAL.csprojResolveAssemblyReference.cache

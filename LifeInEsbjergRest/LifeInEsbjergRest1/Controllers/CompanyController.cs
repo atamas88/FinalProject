@@ -18,6 +18,10 @@ namespace LifeInEsbjergRest.Controllers
             return facade.GetCompanyRepository().ReadAll();
         }
 
+        public Company GetCompany(int id)
+        {
+            return facade.GetCompanyRepository().Find(id);
+        }
 
         public void PostCompany(Company company)
         {
