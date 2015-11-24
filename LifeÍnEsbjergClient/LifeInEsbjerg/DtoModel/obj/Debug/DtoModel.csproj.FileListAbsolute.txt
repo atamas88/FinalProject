@@ -7,3 +7,9 @@ C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoMo
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.csprojResolveAssemblyReference.cache
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.dll
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\DtoModel.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\DtoModel.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\obj\Debug\DtoModel.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\DtoModel.dll.CodeAnalysisLog.xml
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\DtoModel\bin\Debug\DtoModel.dll.lastcodeanalysissucceeded

@@ -71,3 +71,4 @@ C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeI
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjerg\obj\Debug\LifeInEsbjerg.csprojResolveAssemblyReference.cache
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjerg\obj\Debug\LifeInEsbjerg.dll
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjerg\obj\Debug\LifeInEsbjerg.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjerg\obj\Debug\LifeInEsbjerg.csprojResolveAssemblyReference.cache

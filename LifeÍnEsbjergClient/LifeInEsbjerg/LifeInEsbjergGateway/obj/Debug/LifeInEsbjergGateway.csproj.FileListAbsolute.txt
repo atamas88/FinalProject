@@ -10,3 +10,14 @@ C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeI
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\obj\Debug\LifeInEsbjergGateway.csprojResolveAssemblyReference.cache
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\obj\Debug\LifeInEsbjergGateway.dll
 C:\Users\notandi\Documents\FinalProject\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\obj\Debug\LifeInEsbjergGateway.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\LifeInEsbjergGateway.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\LifeInEsbjergGateway.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\DtoModel.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\System.Net.Http.Formatting.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\DtoModel.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\System.Net.Http.Formatting.xml
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\obj\Debug\LifeInEsbjergGateway.csprojResolveAssemblyReference.cache
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\obj\Debug\LifeInEsbjergGateway.dll
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\obj\Debug\LifeInEsbjergGateway.pdb
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\LifeInEsbjergGateway.dll.CodeAnalysisLog.xml
+C:\School\Repository Github\LifeInEsbjerg\LifeÍnEsbjergClient\LifeInEsbjerg\LifeInEsbjergGateway\bin\Debug\LifeInEsbjergGateway.dll.lastcodeanalysissucceeded
